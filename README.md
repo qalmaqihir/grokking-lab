@@ -79,8 +79,9 @@ Try these to explore the grokking landscape:
 
 ## 📚 Background Reading
 
-* [Power et al. (2022): *Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets*](https://arxiv.org/abs/2201.02177)
-* [Anthropic interpretability blog on grokking](https://transformer-circuits.pub/2022/grokking/index.html)
+* [*Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets*](https://arxiv.org/abs/2201.02177)
+* [A Mechanistic Interpretability Analysis of Grokk](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)  
+* [Interlude: A Mechanistic Interpretability Analysis of Grokking](https://www.neelnanda.io/blog/interlude-a-mechanistic-interpretability-analysis-of-grokking)  
 
 
 ## 📝 Research Directions
